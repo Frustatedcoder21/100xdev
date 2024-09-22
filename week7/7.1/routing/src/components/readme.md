@@ -1,0 +1,1 @@
+windows.navigate.href reloads the page and it fetches html and js file on every button click or navigation through button
